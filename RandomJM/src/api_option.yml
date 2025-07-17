@@ -1,0 +1,10 @@
+log: false
+client:
+  cache: null
+  domain:
+    - jm18c-twie.club
+    - jmcomic-ive.cc
+    - 18comic-aspa.org
+  impl: html
+  retry_times: 1
+version: '2.1'
